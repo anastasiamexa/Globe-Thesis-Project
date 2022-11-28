@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Globe</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="welcome_back">Hello there, Welcome back</string>
+    <string name="sign_in">Sign in to continue</string>
+    <string name="email_hint" translatable="false">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="go">Go</string>
+    <string name="new_user">New User? Sign up</string>
+    <string name="error">Error</string>
+    <string name="fill_fields">Please fill all the fields</string>
+    <string name="currency_converter">Currency Converter</string>
+    <string name="currency_type">Select your currency type</string>
+    <string name="currency_value">Enter currency value</string>
+    <string name="converted_currency_type">Select converted currency type</string>
+    <string name="converted_currency_value">Your converted currency</string>
+    <string name="convert">Convert</string>
+    <string name="ex">ex: 100</string>
+    <string name="same_currency">Converting to same currency...</string>
+    <string name="enter_currency_value">Please enter a value to convert...</string>
+    <string name="landmarks_recognition">Landmark Detection</string>
+    <string name="take_landmark_picture">Press the button below to take a picture of a landmark.</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="more_info">More info</string>
+    <string name="failed_request_reason" translatable="false">failed to make API request because </string>
+    <string name="failed_request_other_reason" translatable="false">failed to make API request because of other IOException </string>
+    <string name="failed_request" translatable="false">Cloud Vision API request failed. Check logs for details.</string>
+    <string name="slogan" translatable="false">Helps you travel around the world</string>
+    <string name="dare_to_travel">Dare to travel</string>
+    <string name="personal_travel_assistance">Your personal travel assistance</string>
+    <string name="translation">Translation</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="logout">Logout</string>
+    <string name="more_information">More Information</string>
+    <string name="title">Title</string>
+    <string name="type">Type</string>
+    <string name="description">Description</string>
+    <string name="phone">Phone</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="results">Results</string>
+    <string name="no_text_found">No text found</string>
+    <string name="no_text_recognised">No text was recognised.</string>
+    <string name="welcome">Welcome,</string>
+    <string name="sign_up">Sign up to start your new journey</string>
+    <string name="full_name">Full Name</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="age">Age</string>
+    <string name="already_a_user">Already have an account? Login</string>
+    <string name="empty_field">Field cannot be empty</string>
+    <string name="long_username">Username too long</string>
+    <string name="short_username">Username too short</string>
+    <string name="white_space">White spaces are not allowed</string>
+    <string name="invalid_email">Invalid email address</string>
+    <string name="weak_password">Password is too weak</string>
+    <string name="invalid_age">Invalid age</string>
+    <string name="translate">Translate</string>
+    <string name="select">Select</string>
+    <string name="nothing_to_translate">Nothing to translate.</string>
+    <string name="select_language">Please select a language.</string>
+    <string name="same_language">Cannot translate to the same language.</string>
+    <string name="failed_translation">Translation failed</string>
+    <string name="download_failed">Download failed</string>
+    <string name="unidentified_language">Can\'t identify language.</string>
+    <string name="language">Language: </string>
+    <string name="failed_to_identify_language">Failed to identify language</string>
+    <string name="swap_languages">Cannot swap languages when auto detection is selected.</string>
+    <string name="translations">Translations</string>
+    <string name="landmarks">Landmarks</string>
+    <string name="conversions">Conversions</string>
+    <string name="country">Country</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="only_letters">Only letters</string>
+</resources>

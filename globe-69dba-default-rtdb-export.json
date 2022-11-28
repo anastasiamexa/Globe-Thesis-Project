@@ -1,0 +1,877 @@
+{
+  "Languages": {
+    "Albanian": {
+      "Icon": "albania.png",
+      "Short": "ALB",
+      "Tag": "sq",
+      "Title": "Albanian"
+    },
+    "Bulgarian": {
+      "Icon": "bulgaria.png",
+      "Short": "BUL",
+      "Tag": "bg",
+      "Title": "Bulgarian"
+    },
+    "Chinese": {
+      "Icon": "china.png",
+      "Short": "CHI",
+      "Tag": "zh",
+      "Title": "Chinese"
+    },
+    "Croatian": {
+      "Icon": "croatia.png",
+      "Short": "HRV",
+      "Tag": "hr",
+      "Title": "Croatian"
+    },
+    "Czech": {
+      "Icon": "czech-republic.png",
+      "Short": "CZE",
+      "Tag": "cs",
+      "Title": "Czech"
+    },
+    "Danish": {
+      "Icon": "denmark.png",
+      "Short": "DAN",
+      "Tag": "da",
+      "Title": "Danish"
+    },
+    "English": {
+      "Icon": "united-kingdom.png",
+      "Short": "ENG",
+      "Tag": "en",
+      "Title": "English"
+    },
+    "French": {
+      "Icon": "france.png",
+      "Short": "FRA",
+      "Tag": "fr",
+      "Title": "French"
+    },
+    "German": {
+      "Icon": "germany.png",
+      "Short": "GER",
+      "Tag": "de",
+      "Title": "German"
+    },
+    "Greek": {
+      "Icon": "greece.png",
+      "Short": "GRE",
+      "Tag": "el",
+      "Title": "Greek"
+    },
+    "Hindi": {
+      "Icon": "india.png",
+      "Short": "HIN",
+      "Tag": "hi",
+      "Title": "Hindi"
+    },
+    "Italian": {
+      "Icon": "italy.png",
+      "Short": "ITA",
+      "Tag": "it",
+      "Title": "Italian"
+    },
+    "Japanese": {
+      "Icon": "japan.png",
+      "Short": "JPN",
+      "Tag": "ja",
+      "Title": "Japanese"
+    },
+    "Polish": {
+      "Icon": "poland.png",
+      "Short": "POL",
+      "Tag": "pl",
+      "Title": "Polish"
+    },
+    "Portuguese": {
+      "Icon": "portugal.png",
+      "Short": "POR",
+      "Tag": "pt",
+      "Title": "Portuguese"
+    },
+    "Romanian": {
+      "Icon": "romania.png",
+      "Short": "RON",
+      "Tag": "ro",
+      "Title": "Romanian"
+    },
+    "Russian": {
+      "Icon": "russia.png",
+      "Short": "RUS",
+      "Tag": "ru",
+      "Title": "Russian"
+    },
+    "Spanish": {
+      "Icon": "spain.png",
+      "Short": "SPA",
+      "Tag": "es",
+      "Title": "Spanish"
+    },
+    "Swedish": {
+      "Icon": "sweden.png",
+      "Short": "SWE",
+      "Tag": "sv",
+      "Title": "Swedish"
+    },
+    "Ukrainian": {
+      "Icon": "ukraine.png",
+      "Short": "UKR",
+      "Tag": "uk",
+      "Title": "Ukrainian"
+    }
+  },
+  "Statistics": {
+    "Conversion": {
+      "-NA5GADHJfpv39F5iuGY": {
+        "convertedValue": "117.12",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "ALL  (Albania Lek, Lek)",
+        "originalValue": "1",
+        "timestamp": "22/08/2022 03:56:06",
+        "username": "nancy"
+      },
+      "-NA5HEEP0pz473e-5X6o": {
+        "convertedValue": "3.65",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "AED  (United Arab Emirates Dirham, د.إ)",
+        "originalValue": "1",
+        "timestamp": "22/08/2022 04:00:45",
+        "username": "nancy"
+      },
+      "-NA5J1nG-ib3F7WWJRPm": {
+        "convertedValue": "4.88",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "RON  (Romania Leu, lei)",
+        "originalValue": "1",
+        "timestamp": "22/08/2022 04:08:38",
+        "username": "nancy"
+      },
+      "-NA5JewIu2H79so99Ecg": {
+        "convertedValue": "0.99",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "USD  (United States Dollar, $)",
+        "originalValue": "1.0",
+        "timestamp": "22/08/2022 04:11:22",
+        "username": "nancy"
+      },
+      "-NA5NEWkAykPkBN2XCBh": {
+        "convertedValue": "59.79",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "RUB  (Russia Ruble, ₽)",
+        "originalValue": "1.0",
+        "timestamp": "22/08/2022 07:27:00",
+        "username": "nancy"
+      },
+      "-NAFmHtxsGGL6NjgXOJO": {
+        "convertedValue": "365.38",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "AED  (United Arab Emirates Dirham, د.إ)",
+        "originalValue": "100.0",
+        "timestamp": "24/08/2022 04:57:02",
+        "username": "stacy"
+      },
+      "-NAFrv7DQA_xdcJ8ZTO4": {
+        "convertedValue": "9.96",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "USD  (United States Dollar, $)",
+        "originalValue": "10.0",
+        "timestamp": "24/08/2022 08:21:36",
+        "username": "nancy"
+      },
+      "-NAFwm63ipFEkrL0wqAa": {
+        "convertedValue": "3.66",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "AED  (United Arab Emirates Dirham, د.إ)",
+        "originalValue": "1.0",
+        "timestamp": "24/08/2022 08:42:52",
+        "username": "andreas"
+      },
+      "-NAO_deRwO9rQC9SqSIn": {
+        "convertedValue": "100.02",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "USD  (United States Dollar, $)",
+        "originalValue": "100.0",
+        "timestamp": "26/08/2022 12:58:24",
+        "username": "stacy"
+      },
+      "-NB8Zv2w3DVA6AMaQoPF": {
+        "convertedValue": "481.42",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "RON  (Romania Leu, lei)",
+        "originalValue": "100.0",
+        "timestamp": "04/09/2022 05:36:58",
+        "username": "stacy"
+      },
+      "-NB8_9PJqbzKJJV9wMGu": {
+        "convertedValue": "16.11",
+        "currencyFrom": "GBP  (United Kingdom Pound, £)",
+        "currencyTo": "USD  (United States Dollar, $)",
+        "originalValue": "14.0",
+        "timestamp": "04/09/2022 05:38:01",
+        "username": "stacy"
+      },
+      "-NB8_WYIwi4PfN1vejIL": {
+        "convertedValue": "0.27",
+        "currencyFrom": "AED  (United Arab Emirates Dirham, د.إ)",
+        "currencyTo": "EUR  (Euro Member Countries, €)",
+        "originalValue": "1.0",
+        "timestamp": "04/09/2022 05:39:36",
+        "username": "stacy"
+      },
+      "-NBlQQaCdw6rnLgAIrK1": {
+        "convertedValue": "50.66",
+        "currencyFrom": "EUR  (Euro Member Countries, €)",
+        "currencyTo": "USD  (United States Dollar, $)",
+        "originalValue": "50.0",
+        "timestamp": "12/09/2022 02:20:17",
+        "username": "stacy"
+      },
+      "-NBlQYmzLTDEvHg2-Fk1": {
+        "convertedValue": "158.40",
+        "currencyFrom": "AED  (United Arab Emirates Dirham, د.إ)",
+        "currencyTo": "RON  (Romania Leu, lei)",
+        "originalValue": "120.0",
+        "timestamp": "12/09/2022 02:20:50",
+        "username": "stacy"
+      }
+    },
+    "Landmark": {
+      "-NA5RipDBfgQZ97j-_bN": {
+        "coordinates": {
+          "latitude": 37.9715323,
+          "longitude": 23.7257492
+        },
+        "landmark": "Acropolis of Athens",
+        "timestamp": "22/08/2022 07:46:36",
+        "username": "nancy"
+      },
+      "-NA5SWM-8CnbZbyB6K4L": {
+        "coordinates": {
+          "latitude": 51.500782,
+          "longitude": -0.12462600000000001
+        },
+        "landmark": "Big Ben",
+        "timestamp": "22/08/2022 07:50:03",
+        "username": "nancy"
+      },
+      "-NAFrWjDSn36PlEEMITB": {
+        "coordinates": {
+          "latitude": 37.9715323,
+          "longitude": 23.7257492
+        },
+        "landmark": "Acropolis of Athens",
+        "timestamp": "24/08/2022 08:19:52",
+        "username": "nancy"
+      },
+      "-NAFzapFTDhQ3NraSOBV": {
+        "coordinates": {
+          "latitude": 40.6892494,
+          "longitude": -74.04450039999999
+        },
+        "landmark": "Statue of Liberty National Monument",
+        "timestamp": "24/08/2022 08:55:11",
+        "username": "andreas"
+      },
+      "-NAO_FrmMdIYvk8NhENY": {
+        "coordinates": {
+          "latitude": 40.689824,
+          "longitude": -74.045047
+        },
+        "landmark": "Liberty Island",
+        "timestamp": "26/08/2022 12:56:42",
+        "username": "stacy"
+      },
+      "-NAO_Ss1CVLsSL0_Lf30": {
+        "coordinates": {
+          "latitude": 37.9715323,
+          "longitude": 23.7257492
+        },
+        "landmark": "Acropolis of Athens",
+        "timestamp": "26/08/2022 12:57:36",
+        "username": "stacy"
+      },
+      "-NB8MiLcvh231WYfpItc": {
+        "coordinates": {
+          "latitude": 37.9715323,
+          "longitude": 23.7257492
+        },
+        "landmark": "Acropolis of Athens",
+        "timestamp": "04/09/2022 07:39:17",
+        "username": "stacy"
+      },
+      "-NBlPjJIdMWjLZGokSs-": {
+        "coordinates": {
+          "latitude": 40.689261,
+          "longitude": -74.044482
+        },
+        "landmark": "Statue of Liberty",
+        "timestamp": "12/09/2022 02:17:15",
+        "username": "stacy"
+      },
+      "-NBlQ9UohAU68pYee-__": {
+        "coordinates": {
+          "latitude": 37.9715323,
+          "longitude": 23.7257492
+        },
+        "landmark": "Acropolis of Athens",
+        "timestamp": "12/09/2022 02:19:07",
+        "username": "stacy"
+      }
+    },
+    "Translation": {
+      "-NA5CE_o6iHY7rHHT5h5": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "Hello",
+        "timestamp": "22/08/2022 03:38:55",
+        "translatedText": "Χαίρετε",
+        "username": "nancy"
+      },
+      "-NA5D6aS0XRhQQdCex7f": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "Good morning",
+        "timestamp": "22/08/2022 03:42:45",
+        "translatedText": "Καλημέρα",
+        "username": "nancy"
+      },
+      "-NAFm9LZjmlYdnFT1zdJ": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "Hello",
+        "timestamp": "24/08/2022 04:56:27",
+        "translatedText": "Γεια σας",
+        "username": "stacy"
+      },
+      "-NAFq2654DW8BTwjGJtB": {
+        "languageFrom": "el",
+        "languageTo": "ja",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:13:25",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFq26B23RDIVeDSyOL": {
+        "languageFrom": "el",
+        "languageTo": "ja",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:13:25",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqC0wu_WYqsRl_0h4": {
+        "languageFrom": "el",
+        "languageTo": "ja",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:14:05",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqJCEGyOv_pFq72hB": {
+        "languageFrom": "el",
+        "languageTo": "zh",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:14:35",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqP2bb5XIfcxifxEl": {
+        "languageFrom": "el",
+        "languageTo": "zh",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:14:59",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqRzj2_taqD1EreMa": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:15:11",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqTS-E3OFKdy5Lwkj": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "μαμα",
+        "timestamp": "24/08/2022 08:15:17",
+        "translatedText": "μαμα",
+        "username": "nancy"
+      },
+      "-NAFqi0kHyRZrjicX9Bm": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "μαμά",
+        "timestamp": "24/08/2022 08:16:21",
+        "translatedText": "mom",
+        "username": "nancy"
+      },
+      "-NAFqkR8GOJR4mXf59q0": {
+        "languageFrom": "el",
+        "languageTo": "ja",
+        "originalText": "μαμά",
+        "timestamp": "24/08/2022 08:16:30",
+        "translatedText": "ママ",
+        "username": "nancy"
+      },
+      "-NAFyEKsdvrW95Y7oXok": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "Hello",
+        "timestamp": "24/08/2022 05:49:09",
+        "translatedText": "Γεια σας",
+        "username": "stacy"
+      },
+      "-NAFyLwpH4Cb1Yr4aPlb": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "This is a test",
+        "timestamp": "24/08/2022 05:49:40",
+        "translatedText": "Αυτό είναι ένα τεστ",
+        "username": "stacy"
+      },
+      "-NAFyQyouQJymZ633jfV": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "This is an other test my name is Anastasia",
+        "timestamp": "24/08/2022 05:50:01",
+        "translatedText": "Αυτό είναι ένα άλλο δοκιμές Το όνομά μου είναι η Αναστασία",
+        "username": "stacy"
+      },
+      "-NAFzBQa3VhgHfRHC2cQ": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "Hello",
+        "timestamp": "24/08/2022 08:53:23",
+        "translatedText": "Γεια σας",
+        "username": "andreas"
+      },
+      "-NAFzLQs-cIH5NHwRRG7": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "this is a test to see if the translation functionalities working",
+        "timestamp": "24/08/2022 08:54:04",
+        "translatedText": "Αυτό είναι μια δοκιμή για να δείτε αν οι λειτουργίες μετάφρασης που εργάζονται",
+        "username": "andreas"
+      },
+      "-NAFzr3QmNRI17QUFOp2": {
+        "languageFrom": "fr",
+        "languageTo": "el",
+        "originalText": "bonjour",
+        "timestamp": "24/08/2022 08:56:18",
+        "translatedText": "Γεια σας",
+        "username": "andreas"
+      },
+      "-NAFzw7bthbldyHgPPLr": {
+        "languageFrom": "fr",
+        "languageTo": "el",
+        "originalText": "Bonjour comment tu t'appelles",
+        "timestamp": "24/08/2022 08:56:38",
+        "translatedText": "Γεια σας πώς σας καλώ",
+        "username": "andreas"
+      },
+      "-NAG-7ncgEmudYmHDu1l": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": " CAUTION One Way Road Spikes Ahead Inappropriate use may result in yre damage",
+        "timestamp": "24/08/2022 08:57:30",
+        "translatedText": "ΠΡΟΣΟΧΗ Μία μονοπάτι δρόμου Ακίνητα Ακατάλληλη χρήση μπορεί να οδηγήσει σε ζημιά",
+        "username": "andreas"
+      },
+      "-NAG8HKR0DiTPad_2-QH": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "hello",
+        "timestamp": "24/08/2022 09:37:29",
+        "translatedText": "γεια σας",
+        "username": "lumis37"
+      },
+      "-NAG8LbVsTk0erhjUekP": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "bonjour",
+        "timestamp": "24/08/2022 09:37:46",
+        "translatedText": "Γεια σας",
+        "username": "lumis37"
+      },
+      "-NAZ6aH4-nqADvaH7oOA": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "γεια",
+        "timestamp": "28/08/2022 02:02:54",
+        "translatedText": "Hi",
+        "username": "stacy"
+      },
+      "-NAZ6bd_DlVgLusBMfKU": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "γεια τι κανεις",
+        "timestamp": "28/08/2022 02:02:59",
+        "translatedText": "hello what are you doing",
+        "username": "stacy"
+      },
+      "-NAZ6dcEVBo5GtloKdTl": {
+        "languageFrom": "el",
+        "languageTo": "en",
+        "originalText": "ΝΑΣΚΑΛΑ",
+        "timestamp": "28/08/2022 02:03:07",
+        "translatedText": "Νασκαλα",
+        "username": "stacy"
+      },
+      "-NAZ6kLbo50Ep04Cjm5W": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "hello",
+        "timestamp": "28/08/2022 02:03:35",
+        "translatedText": "γεια σας",
+        "username": "stacy"
+      },
+      "-NAZ6qYI0geS9NfMuVCx": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "bonjour",
+        "timestamp": "28/08/2022 02:04:00",
+        "translatedText": "Γεια σας",
+        "username": "stacy"
+      },
+      "-NAZ6sXvGu-Eb06yGt7g": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "hello",
+        "timestamp": "28/08/2022 02:04:08",
+        "translatedText": "γεια σας",
+        "username": "stacy"
+      },
+      "-NAZ747qI-kP42N9atP9": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " ROAD CLOSED TO THRU TRAFFIC",
+        "timestamp": "28/08/2022 02:05:00",
+        "translatedText": "Ο δρόμος έκλεισε προς τα υλικά κίνηση",
+        "username": "stacy"
+      },
+      "-NAxaEr6LfvoKJc3F8eR": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "Hello this is a test to see if the emulator is working",
+        "timestamp": "02/09/2022 09:47:17",
+        "translatedText": "Γεια σας, πρόκειται για μια δοκιμή για να δείτε αν ο εξομοιωτής λειτουργεί",
+        "username": "stacy"
+      },
+      "-NB7OvQq4mosOJ5EY1XR": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "Hello, my name is Anastasia!",
+        "timestamp": "04/09/2022 12:09:17",
+        "translatedText": "Γεια σας, το όνομά μου είναι η Αναστασία!",
+        "username": "stacy"
+      },
+      "-NB7RResqrvaJrVVP7Tp": {
+        "languageFrom": "fr",
+        "languageTo": "en",
+        "originalText": "Bonjour tu as quel âge?",
+        "timestamp": "04/09/2022 03:20:18",
+        "translatedText": "Hello you have how old?",
+        "username": "andreas"
+      },
+      "-NB7YTdTlumSKUmUW2_5": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": " ROAD CLOSED TO THRU TRAFFIC",
+        "timestamp": "04/09/2022 03:51:01",
+        "translatedText": "Ο δρόμος έκλεισε προς τα υλικά κίνηση",
+        "username": "stacy"
+      },
+      "-NB7Z0M9ZznLbuaiYRaN": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " DEPARTURE ARRIVALS",
+        "timestamp": "04/09/2022 03:53:24",
+        "translatedText": "ΑΦΙΞΕΙΣ ΑΝΑΚΟΙ",
+        "username": "stacy"
+      },
+      "-NB7Z5e_Rba2tVmO9KUX": {
+        "languageFrom": "auto",
+        "languageTo": "fr",
+        "originalText": " DEPARTURE ARRIVALS",
+        "timestamp": "04/09/2022 03:53:45",
+        "translatedText": "Arrivées de départ",
+        "username": "stacy"
+      },
+      "-NB7_-DTnfJMEHo7OrvG": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " FRIDAYS IN HERE IT'S ALWAYS FRIDAY",
+        "timestamp": "04/09/2022 03:57:41",
+        "translatedText": "Παρασκευές εδώ είναι πάντα Παρασκευή",
+        "username": "stacy"
+      },
+      "-NBIefJAq23l4PkI2hQz": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": " NOTICE PLEASE WEAR FACE MASK THANK YOU",
+        "timestamp": "06/09/2022 07:38:17",
+        "translatedText": "Ειδοποίηση παρακαλώ φορέστε μάσκα προσώπου σας ευχαριστώ",
+        "username": "nancy"
+      },
+      "-NBkIhww0n3Wle_cY2dK": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " NOTICE PLEASE WEAR A FACE MASK THANK YOU",
+        "timestamp": "12/09/2022 09:06:57",
+        "translatedText": "Παρατηρήστε παρακαλώ φορέστε μια μάσκα προσώπου ευχαριστώ",
+        "username": "stacy"
+      },
+      "-NBlJEtf47YTxKA0T2at": {
+        "languageFrom": "el",
+        "languageTo": "fr",
+        "originalText": "γεια",
+        "timestamp": "12/09/2022 01:48:54",
+        "translatedText": "Salut",
+        "username": "stacy"
+      },
+      "-NBlJatNtApCCtkYIet9": {
+        "languageFrom": "ro",
+        "languageTo": "el",
+        "originalText": "multumesc",
+        "timestamp": "12/09/2022 01:50:28",
+        "translatedText": "ευχαριστώ",
+        "username": "stacy"
+      },
+      "-NBlJeqSq5OzZ7VmJH0E": {
+        "languageFrom": "el",
+        "languageTo": "ro",
+        "originalText": "πως σε λενε",
+        "timestamp": "12/09/2022 01:50:45",
+        "translatedText": "care e numele tău",
+        "username": "stacy"
+      },
+      "-NBlJgbEtED30nds6_JT": {
+        "languageFrom": "el",
+        "languageTo": "ro",
+        "originalText": "τι κανεις",
+        "timestamp": "12/09/2022 01:50:52",
+        "translatedText": "ce faci",
+        "username": "stacy"
+      },
+      "-NBlM9FPmTjoJgP1zkkV": {
+        "languageFrom": "en",
+        "languageTo": "el",
+        "originalText": "Hello, this is a presentation",
+        "timestamp": "12/09/2022 02:01:37",
+        "translatedText": "Γεια σας, αυτή είναι μια παρουσίαση",
+        "username": "stacy"
+      },
+      "-NBlMCn4YugQ-c5imjKf": {
+        "languageFrom": "en",
+        "languageTo": "fr",
+        "originalText": "Hello, this is a presentation",
+        "timestamp": "12/09/2022 02:01:52",
+        "translatedText": "Bonjour, c'est une présentation",
+        "username": "stacy"
+      },
+      "-NBlMutxzFKjYDHplMYj": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " Global Lives Project",
+        "timestamp": "12/09/2022 02:04:56",
+        "translatedText": "Το πρόγραμμα GLUSHLI",
+        "username": "stacy"
+      },
+      "-NBlMyCRy67EOQL3AJZ2": {
+        "languageFrom": "auto",
+        "languageTo": "ro",
+        "originalText": " Global Lives Project",
+        "timestamp": "12/09/2022 02:05:10",
+        "translatedText": "Proiectul LIST GLO",
+        "username": "stacy"
+      },
+      "-NBlN-KmgL2zbGgNEMLA": {
+        "languageFrom": "auto",
+        "languageTo": "fr",
+        "originalText": " Global Lives Project",
+        "timestamp": "12/09/2022 02:05:19",
+        "translatedText": "Projet de vie globale",
+        "username": "stacy"
+      },
+      "-NBlNtErLe38Uo-Q00_Z": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": " NOTICE PLEASE WEAR A FACE MASK THANK YOU",
+        "timestamp": "12/09/2022 02:09:12",
+        "translatedText": "Παρατηρήστε παρακαλώ φορέστε μια μάσκα προσώπου ευχαριστώ",
+        "username": "stacy"
+      },
+      "-NBlO-y_3ZlPuLUgSlJb": {
+        "languageFrom": "auto",
+        "languageTo": "fr",
+        "originalText": " Global Lives Project",
+        "timestamp": "12/09/2022 02:09:44",
+        "translatedText": "Projet de vie globale",
+        "username": "stacy"
+      },
+      "-NBlOBNLYnGNcsUH3Aom": {
+        "languageFrom": "fr",
+        "languageTo": "el",
+        "originalText": "je m'appelle Anastasia",
+        "timestamp": "12/09/2022 02:10:30",
+        "translatedText": "Το όνομά μου είναι η Αναστασία",
+        "username": "stacy"
+      },
+      "-NBlONJTQUUA4LMldMeQ": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "this is an example for our presentation",
+        "timestamp": "12/09/2022 02:11:19",
+        "translatedText": "Αυτό είναι ένα παράδειγμα για την παρουσίασή μας",
+        "username": "stacy"
+      },
+      "-NBlOUbPNUHhMW0KqBMC": {
+        "languageFrom": "ro",
+        "languageTo": "en",
+        "originalText": "Alo ce faci",
+        "timestamp": "12/09/2022 02:11:49",
+        "translatedText": "Hello, how are you",
+        "username": "stacy"
+      },
+      "-NBlOh0NA_7Jtndf-b9P": {
+        "languageFrom": "fr",
+        "languageTo": "el",
+        "originalText": "je m'appelle Anastasia",
+        "timestamp": "12/09/2022 02:12:44",
+        "translatedText": "Το όνομά μου είναι η Αναστασία",
+        "username": "stacy"
+      },
+      "-NBlOmWGkkQ2ZObaN5lO": {
+        "languageFrom": "ro",
+        "languageTo": "en",
+        "originalText": "Alo ce faci",
+        "timestamp": "12/09/2022 02:13:06",
+        "translatedText": "Hello, how are you",
+        "username": "stacy"
+      },
+      "-NBlOv7G1M0Kt-klVH_O": {
+        "languageFrom": "auto",
+        "languageTo": "el",
+        "originalText": "this is an example for our presentation",
+        "timestamp": "12/09/2022 02:13:42",
+        "translatedText": "Αυτό είναι ένα παράδειγμα για την παρουσίασή μας",
+        "username": "stacy"
+      }
+    }
+  },
+  "Users": {
+    "-N42OWud_B0pMXof8GBg": {
+      "age": "21",
+      "country": "Greece",
+      "email": "nancygianna11@gmail.com",
+      "fullName": "Nancy Kommatidou",
+      "numOfConversions": 7,
+      "numOfLandmarks": 3,
+      "numOfTranslations": 11,
+      "username": "nancy"
+    },
+    "-N42PIgGNjrPji_s6gA5": {
+      "age": "21",
+      "country": "Greece",
+      "email": "anastasia.mexa@yahoo.gr",
+      "fullName": "Anastasia Mexa",
+      "numOfConversions": 7,
+      "numOfLandmarks": 5,
+      "numOfTranslations": 35,
+      "username": "stacy"
+    },
+    "-N42Sc0cQ_wFT_sv24Ik": {
+      "age": "54",
+      "country": "Greece",
+      "email": "lumis37@yahoo.gr",
+      "fullName": "Marianna Eremia",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 2,
+      "username": "lumis37"
+    },
+    "-N43R2Me0TS6dfd_sDSy": {
+      "age": "55",
+      "country": "Greece",
+      "email": "mexas_andreas@yahoo.gr",
+      "fullName": "Andreas Mexas",
+      "numOfConversions": 1,
+      "numOfLandmarks": 1,
+      "numOfTranslations": 6,
+      "username": "andreas"
+    },
+    "-N5-lYP_aW5_4pBquYjW": {
+      "age": "17",
+      "country": "Greece",
+      "email": "lexusgianna@gmail.com",
+      "fullName": "Gianna",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "Kommatidou"
+    },
+    "-N5AEdEEZudgeDhWVBu1": {
+      "age": "22",
+      "country": "Greece",
+      "email": "marianna.sfak@yahoo.gr",
+      "fullName": "Marianna Sfakianoudi",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "marianna"
+    },
+    "-N7AxW5-Hb0bMk0x5KlD": {
+      "age": "18",
+      "country": "Greece",
+      "email": "eirini.par03@gmail.com",
+      "fullName": "Eirini",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "eirini"
+    },
+    "-NA4iAqVzmQwvMVLW69R": {
+      "age": "50",
+      "country": "Greece",
+      "email": "fanis2105@gmail.com",
+      "fullName": "Fanis Kommatidis",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "fanis"
+    },
+    "-NA4pYTsVPYWt48Bso1k": {
+      "age": "48",
+      "country": "Greece",
+      "email": "afrodititz12@gmail.com",
+      "fullName": "Afroditi Tzamara",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "afroditi"
+    },
+    "-NAZ7voZvFYz9cpdA-ev": {
+      "age": "17",
+      "country": "Greece",
+      "email": "tzosfak0505@gmail.com",
+      "fullName": "Tzortzina Sfakianoudi",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "tzotzo"
+    },
+    "-NBlLIp9bAD2GJFav7uI": {
+      "age": "22",
+      "country": "Greece",
+      "email": "basia111@windowslive.com",
+      "fullName": "Basia Pasia",
+      "numOfConversions": 0,
+      "numOfLandmarks": 0,
+      "numOfTranslations": 0,
+      "username": "basia"
+    }
+  }
+}

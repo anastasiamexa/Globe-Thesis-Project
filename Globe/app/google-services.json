@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034831914405",
+    "project_id": "globe-69dba",
+    "storage_bucket": "globe-69dba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034831914405:android:72c6aeab6a3beacb89344c",
+        "android_client_info": {
+          "package_name": "com.example.globe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034831914405-l14qbogafnb1djevdj5b345dqjtk9851.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfUuSOVWCJ0mvzI5g-Np9SIWUA8S_ENc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034831914405-l14qbogafnb1djevdj5b345dqjtk9851.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
