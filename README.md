@@ -1,8 +1,8 @@
 # Globe-Thesis-Project
 An Android application aimed at assisting tourists in a foreign country.
 
-We developed an Android application called Globe, as our thesis project.
-Supervisor: Alepis Efthimios
+We developed an Android application called Globe, as our thesis project. <br />
+Supervisor: Alepis Efthimios <br />
 Grade: 10
 
 ## Features
